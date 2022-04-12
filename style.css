@@ -1,0 +1,39 @@
+body {
+    background-color: #060133;
+}
+
+.titulo {
+    color: white;
+    padding: .5rem;
+}
+
+.form {
+    display: flex;
+    
+
+}
+
+.form-group{
+    color: white;
+    padding: 0.5rem;
+    
+}
+
+.btn {
+    cursor: pointer;
+    border-radius: 8px;    
+    margin-left: 50px;
+    margin-top: .5rem;
+    padding: 5px;
+    text-align: center;
+    
+}
+
+.btn:hover{
+    padding: 8px;
+}
+
+.resposta {
+    color: white;
+    padding: .5rem;
+}
